@@ -2,7 +2,7 @@
 [![PyPI](https://img.shields.io/pypi/v/OctoBot.svg?logo=pypi)](https://pypi.org/project/OctoBot)
 [![Downloads](https://pepy.tech/badge/octobot/month)](https://pepy.tech/project/octobot)
 [![Dockerhub](https://img.shields.io/docker/pulls/drakkarsoftware/octobot.svg?logo=docker)](https://hub.docker.com/r/drakkarsoftware/octobot)
-[![OctoBot-CI](https://github.com/Drakkar-Software/OctoBot/workflows/OctoBot-CI/badge.svg)](https://github.com/Drakkar-Software/OctoBot/actions)
+[![OctoBot-CI](https://github.com/terremoto21/OctoBot/workflows/OctoBot-CI/badge.svg)](https://github.com/terremoto21/OctoBot/actions)
 
 #### Octobot Community
 [![OctoBot](https://img.shields.io/badge/dynamic/json.svg?&url=https://octobot.cloud/api/community/stats&query=$.total_bots&color=blue&label=Installed%20OctoBots)]()
@@ -22,7 +22,7 @@
 
 ## What is Octobot  ?
 
-[![OctoBot - Open Source Crypto Trading Bot Video](https://raw.githubusercontent.com/Drakkar-Software/OctoBot/assets/meet_octobot_preview.png)](https://www.youtube.com/watch?v=TJUU62e1jR8)
+[![OctoBot - Open Source Crypto Trading Bot Video](https://raw.githubusercontent.com/terremoto21/OctoBot/assets/meet_octobot_preview.png)](https://www.youtube.com/watch?v=TJUU62e1jR8)
 
 [Octobot](https://www.octobot.cloud/trading-bot?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=readme_what_is_octobot) is a powerful open-source cryptocurrency trading robot.
 
@@ -95,7 +95,7 @@ You can follow your OctoBots portfolio, orders, trades and historical performanc
 
 OctoBot comes with its [built-in backtesting engine](https://www.octobot.cloud/en/guides/octobot-usage/backtesting?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=backtesting) which enables you to trade with simulated money using historical exchange data.
 
-[![Backtesting report using grid trading on eth btc with 8 percent profit](../assets/backtesting_report.jpg)](https://github.com/Drakkar-Software/OctoBot/blob/assets/backtesting_report.jpg)  
+[![Backtesting report using grid trading on eth btc with 8 percent profit](../assets/backtesting_report.jpg)](https://github.com/terremoto21/OctoBot/blob/assets/backtesting_report.jpg)  
 
 Backtesting will give you accurate insights on the past performance and behavior of trading strategies.
 
@@ -103,9 +103,9 @@ Backtesting will give you accurate insights on the past performance and behavior
 If you are an institutional interested in a commercial license or custom development to suit your specific needs please contact us at <a href="mailto:contact@drakkar.software">contact@drakkar.software</a>. 
 
 ## Market making
-A [market making distribution of OctoBot](https://github.com/Drakkar-Software/OctoBot-market-making) is available as a free open source software.
+A [market making distribution of OctoBot](https://github.com/terremoto21/OctoBot-market-making) is available as a free open source software.
 
-![octobot market making dashboard with buy and sell orders](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Market-Making/master/docs/octobot-market-making-dashboard-with-buy-and-sell-orders.png)
+![octobot market making dashboard with buy and sell orders](https://raw.githubusercontent.com/terremoto21/OctoBot-Market-Making/master/docs/octobot-market-making-dashboard-with-buy-and-sell-orders.png)
 
 Advanced market making strategies can be automated on [market-making.octobot.cloud](https://market-making.octobot.cloud/), the self-service market making platform based on OctoBot. Feel free to contact us if you have any questions about it.
 
@@ -140,15 +140,15 @@ Please feel free to read the source code and understand the mechanism of this bo
 </tr>
 <tr>
 <td>Huge thank you to <a href="https://www.scaleway.com" target="_blank">Scaleway</a> for hosting OctoBot's cloud services.</td>
-<td><a href="https://www.scaleway.com" target="_blank"><p align="center"><img src="https://raw.githubusercontent.com/Drakkar-Software/OctoBot/assets/scaleway.svg" width="500px"></p></a></td>
+<td><a href="https://www.scaleway.com" target="_blank"><p align="center"><img src="https://raw.githubusercontent.com/terremoto21/OctoBot/assets/scaleway.svg" width="500px"></p></a></td>
 </tr>
 <tr>
 <td>A big thank you to <a href="https://sentry.io/welcome/" target="_blank">Sentry</a> for helping us identify and understand errors in OctoBot to make it better.</td>
-<td><a href="https://sentry.io/welcome/" target="_blank"><p align="center"><img src="https://raw.githubusercontent.com/Drakkar-Software/OctoBot/assets/sentry.png" width="500px"></p></a></td>
+<td><a href="https://sentry.io/welcome/" target="_blank"><p align="center"><img src="https://raw.githubusercontent.com/terremoto21/OctoBot/assets/sentry.png" width="500px"></p></a></td>
 </tr>
 </table>
 
 ## License
 GNU General Public License v3.0 or later.
 
-See [GPL-3.0 LICENSE](https://github.com/Drakkar-Software/OctoBot/blob/master/LICENSE) to see the full text.
+See [GPL-3.0 LICENSE](https://github.com/terremoto21/OctoBot/blob/master/LICENSE) to see the full text.
