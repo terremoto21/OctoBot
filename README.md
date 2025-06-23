@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/DrakkarsOctobot.svg?label=twitter&style=social)](https://x.com/DrakkarsOctoBot)
 [![YouTube](https://img.shields.io/youtube/channel/views/UC2YAaBeWY8y_Olqs79b_X8A?label=youtube&style=social)](https://www.youtube.com/@octobot1134)
 
-
+Release Updated (23/06/2025)
 
 <p align="center">
   <img src="../assets/ReadMeIntro.gif" alt="Introduction to OctoBot: choose a strategy, test it, use it and follow your gains" />
